@@ -1,0 +1,20 @@
+{
+    "config": {
+        "abort": {
+            "already_configured": "Das Gerät ist bereits konfiguriert"
+        },
+        "error": {
+            "cannot_connect": "Verbindung fehlgeschlagen",
+            "invalid_input": "Ungültiger Hostname oder ungültige IP-Adresse"
+        },
+        "step": {
+            "user": {
+                "data": {
+                    "ip_address": "IP-Adresse"
+                },
+                "description": "Gib die IP-Adresse des Geräts an",
+                "title": "Gerät identifizieren"
+            }
+        }
+    }
+}
